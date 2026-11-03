@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm SRAVANI DSR
+# ✦ SRAVANI DSR ✦
 
 ### Computer Science Engineer | Full Stack Developer | AI/ML Enthusiast
 
