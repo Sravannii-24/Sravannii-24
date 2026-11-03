@@ -13,7 +13,7 @@
 
 ---
 
-## 👩‍💻 WHO AM I?
+## 👩‍💻 ABOUT ME
 
 I'm a Computer Science undergraduate at **Parul University**, passionate about developing intelligent applications and solving real-world problems through technology.
 
