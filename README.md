@@ -135,22 +135,6 @@ A responsive personal portfolio showcasing my technical skills, projects and dev
 
 ---
 
-## 📊 GITHUB STATISTICS
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sravannii-24&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sravannii-24&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="65%" src="https://streak-stats.demolab.com?user=Sravannii-24&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🤝 LET'S CONNECT
 
 <div align="center">
