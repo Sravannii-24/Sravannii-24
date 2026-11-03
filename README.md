@@ -151,17 +151,6 @@ A responsive personal portfolio showcasing my technical skills, projects and dev
 
 ---
 
-## 📈 CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sravannii-24&theme=tokyo-night&hide_border=true" width="100%" />
-
-</div>
-
----
-
-
 ## 🤝 LET'S CONNECT
 
 <div align="center">
