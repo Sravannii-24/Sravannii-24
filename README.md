@@ -72,6 +72,8 @@ An intelligent flight booking web application combining machine learning with fl
 
 `Python` `Flask` `SQLite` `XGBoost` `ARIMA` `LSTM`
 
+🔗 [View GitHub Repository](https://github.com/Sravannii-24/Airlink-project.git)
+
 ---
 
 ### 💰 FINSIGHT
@@ -91,7 +93,7 @@ A full-stack financial application designed to help users manage expenses and mo
 
 `React 19` `Vite` `FastAPI` `MongoDB` `Python`
 
-[Explore My GitHub Repositories](https://github.com/Sravannii-24?tab=repositories)
+🔗 [View GitHub Repository](https://github.com/Sravannii-24/FinSight.git)
 
 ---
 
@@ -109,6 +111,8 @@ A finance analytics project developed during the Infosys Springboard Virtual Int
 **Tech Stack**
 
 `Python` `Data Analytics`
+
+🔗 [View GitHub Repository](https://github.com/Sravannii-24/FinSight.git)
 
 ---
 
