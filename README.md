@@ -132,7 +132,7 @@ A responsive personal portfolio showcasing my technical skills, projects and dev
 
 - 🎓 Infosys Springboard Virtual Internship 7.0
 - 📊 Finance Analytics Platform – Financial Reporting and Budget Tracking
-
+- 👩🏻‍💻 Google Student Ambassador 2026
 ---
 
 ## 🤝 LET'S CONNECT
