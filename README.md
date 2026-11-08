@@ -155,7 +155,7 @@ A responsive personal portfolio showcasing my technical skills, projects and dev
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/sravani-dsr-0824ds">
+<a href="https://www.linkedin.com/in/sravannii-0824dsr">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
