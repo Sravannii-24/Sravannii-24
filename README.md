@@ -76,12 +76,17 @@ An intelligent flight booking web application combining machine learning with fl
 
 ---
 
-### 💰 FINSIGHT
-**Personal Finance & Investment Intelligence Platform**
+### 📊 FINANCE ANALYTICS PLATFORM
+**Financial Reporting & Budget Tracking**
 
 A full-stack financial application designed to help users manage expenses and monitor their investment portfolios.
+A finance analytics project developed during the Infosys Springboard Virtual Internship 7.0.
 
 **Key Features**
+- Financial reporting
+- Budget tracking
+- Financial data analysis
+- Data-driven insights
 - Secure JWT authentication
 - Password hashing using bcrypt
 - Personal finance dashboard
@@ -91,26 +96,7 @@ A full-stack financial application designed to help users manage expenses and mo
 
 **Tech Stack**
 
-`React 19` `Vite` `FastAPI` `MongoDB` `Python`
-
-🔗 [View GitHub Repository](https://github.com/Sravannii-24/FinSight.git)
-
----
-
-### 📊 FINANCE ANALYTICS PLATFORM
-**Financial Reporting & Budget Tracking**
-
-A finance analytics project developed during the Infosys Springboard Virtual Internship 7.0.
-
-**Key Features**
-- Financial reporting
-- Budget tracking
-- Financial data analysis
-- Data-driven insights
-
-**Tech Stack**
-
-`Python` `Data Analytics`
+`Python` `Data Analytics` `React 19` `Vite` `FastAPI` `MongoDB`
 
 🔗 [View GitHub Repository](https://github.com/Sravannii-24/FinSight.git)
 
